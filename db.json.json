@@ -1,0 +1,26 @@
+{"questions":[
+    {
+      "questionType" : "true_false",
+      "questionText" : "The earth is round",
+      "correctAnswer" : "true",
+      "options" : ["true", "false"]
+    },
+    {
+      "questionType":"multiple_choice",
+      "questionText":"The programming language &#039;Swift&#039; was created to replace what other programming language?",
+      "correctAnswer":"Objective-C",
+      "options":[
+         "C#",
+         "Ruby",
+         "Objective-C",
+         "C++"
+      ]
+   },
+    {
+      "questionType" : "text_input",
+      "questionText" : "What is the value of the expression 1+1",
+      "correctAnswer" : "2",
+      "answerFieldId" : "answer_to_question"
+    }
+  ]
+}
